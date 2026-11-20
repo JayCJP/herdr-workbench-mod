@@ -1,3 +1,5 @@
 *.bak
 preview.png
 .DS_Store
+mods/tabs-workbench/gpui-kit.d.ts
+mods/tabs-workbench/jsconfig.json
